@@ -1,6 +1,7 @@
 # Titanic Data Analysis
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/1beb9920-a3c1-4df6-9655-20750c932522/7ae56c4777a236ee53f2?experience=power-bi
+### Dataset Link : https://www.kaggle.com/c/titanic/data
 
 ![image_2024-08-03_230501463](https://github.com/user-attachments/assets/eaffe1a1-d7db-4660-bda5-f00cc1d1ecfc)
 #### Project Overview
